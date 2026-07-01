@@ -51,7 +51,7 @@ export default function Booking() {
   };
 
   // const fetchBookedSlots = async () => {
-  //   // Deprecated in favor of fetchValidSlots which handles everything server-side
+  //   
   // };
 
   const fetchServiceAndProvider = async () => {
