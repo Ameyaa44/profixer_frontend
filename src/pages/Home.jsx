@@ -148,7 +148,7 @@ export default function Home() {
                 <div className="bg-primary/10 p-2 rounded-xl text-primary">
                   <FiPhone size={20} />
                 </div>
-                <span>+1 (800) 123-4567</span>
+                <span>+91 9876543210</span>
               </div>
             </div>
           </div>
@@ -167,7 +167,7 @@ export default function Home() {
                   <label className="text-sm font-bold text-gray-700 ml-1">Email Address</label>
                   <div className="relative">
                     <FiMail className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400" />
-                    <input type="email" required className="w-full pl-11 pr-4 py-4 bg-gray-50 border border-gray-200 rounded-2xl focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all font-medium text-gray-900" placeholder="john@example.com" />
+                    <input type="email" required className="w-full pl-11 pr-4 py-4 bg-gray-50 border border-gray-200 rounded-2xl focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all font-medium text-gray-900" placeholder="john@gmail.com" />
                   </div>
                 </div>
               </div>
